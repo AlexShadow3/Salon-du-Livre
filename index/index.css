@@ -1,28 +1,39 @@
+html {
+    background-image:url(../images/B3_exterieur.png);
+    background-size: 100%;
+    opacity: 0.7;
+}
+
 body {
-    background-color: #9b9b9b;
+    background-color: #00000000;
 }
 
 nav {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #6d6d6d;
+    background-color: rgba(255, 255, 255, 0);
 }
 
-a:link 
+#nav-link
 { 
-    text-decoration:none; 
-    color: black;
+    color: #6c6c6c;
 }
 
 #salon_livre {
 
     font-size: 25px;
     font-weight: bold;
+    color: #ffffff;
 }
 
 #nav-bar a{
     font-size: 20px;
 }
 
+#title{
+    color: #ffffff;
+}
+
+
 #nav-bar a:hover{
-    background-color: rgb(89, 89, 89)
+    color: #bb2b0b
 }
