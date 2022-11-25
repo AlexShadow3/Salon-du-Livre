@@ -8,9 +8,8 @@ Voici le répertoire Github du "Salon du Livre" de Vierzon
 
 ## Is Missing
 
-- Image Alain Blot, Frédéric Capmartin, et Clapeau François...
+- Image Alain Blot, CarlaBroschi...
 - Lien Broschi Carla (à vérifier)
-- Pas de lien pour Maud Brunaud, Xavier Darrack, Philippe Desrivot, Dessender Peggy, Thierry Detter, Double Cœur, 
 
 ### Contributors
 
