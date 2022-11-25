@@ -1,3 +1,67 @@
+html {
+    background-image:url(../images/B3_exterieur.png);
+    background-size: 100%;
+    opacity: 1;
+}
+
 body {
-    background-color: #9b9b9b;
+    background-color: #e9e9e9c8;
+}
+
+/* navbar */
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#nav-link
+{ 
+    color: #6c6c6c;
+}
+
+#salon_livre {
+
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#nav-bar a{
+    font-size: 20px;
+}
+
+#title{
+    color: #ffffff;
+}
+
+
+#nav-bar a:hover{
+    color: #bb2b0b
+}
+
+/* body */
+
+#names {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#descript {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+a:any-link {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #bb2b0b;
+    opacity: 0.7;
+}
+
+img {
+    width: 150px;
 }
