@@ -35,26 +35,15 @@ nav {
     color: #ffffff;
 }
 
-
 #nav-bar a:hover{
     color: #bb2b0b
-}
-
-/* body */
-
-#names {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#descript {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
 }
 
 a:any-link {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: black;
+    font-style: italic;
 }
 
 a:hover {
@@ -64,4 +53,11 @@ a:hover {
 
 img {
     width: 150px;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

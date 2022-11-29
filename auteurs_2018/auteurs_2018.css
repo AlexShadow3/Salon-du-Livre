@@ -2,6 +2,7 @@ html {
     background-image:url(../images/B3_exterieur.png);
     background-size: 100%;
     opacity: 1;
+    
 }
 
 body {
@@ -42,19 +43,11 @@ nav {
 
 /* body */
 
-#names {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#descript {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
-}
-
 a:any-link {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: black;
+    font-style: italic;
 }
 
 a:hover {
@@ -62,6 +55,6 @@ a:hover {
     opacity: 0.7;
 }
 
-img {
-    width: 150px;
+#card_modifier {
+    /* margin: 30px; */
 }
