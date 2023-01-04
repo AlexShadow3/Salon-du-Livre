@@ -1,6 +1,6 @@
 # Salon du Livre de Vierzon
 
-Voici le répertoire Github du "Salon du Livre" de Vierzon
+Répertoire Github du "Salon du Livre" de Vierzon
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlexandreBobis/Salon-du-Livre)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AlexandreBobis/Salon-du-Livre)
